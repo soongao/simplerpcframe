@@ -29,5 +29,5 @@
 ```
 
 ## 学习笔记
-### [博客学习笔记](https://soongao.github.io/posts/rpcframe/)
+### [学习记录](https://soongao.github.io/posts/rpcframe/)
 - 项目参考[geektutu](https://geektutu.com/post/geerpc.html)
