@@ -216,6 +216,7 @@ func dialTimeout(f newClientFunc, network, address string, opts ...*Option) (cli
 func Dial(network, address string, opts ...*Option) (*Client, error) {
 	return dialTimeout(NewClient, network, address, opts...)
 }
+
 func (client *Client) send(call *Call) {
 	// make sure that the client will send a complete request
 	client.sending.Lock()

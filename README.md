@@ -1,5 +1,9 @@
-# Simple RPC framework from scratch
+# Simple RPC framework learning from scratch
 - 学习RPC framework并理解RPC框架的重点
+
+## 架构
+- ![流程图](/doc/流程.png)
+- ![关系图](/doc/关系.png)
 
 ## 项目结构
 ```text
@@ -28,6 +32,6 @@
         xclient.go
 ```
 
-## 学习笔记
+## 学习记录
 ### [学习记录](https://soongao.github.io/posts/rpcframe/)
-- 项目参考[geektutu](https://geektutu.com/post/geerpc.html)
+- 项目参考geerpc
